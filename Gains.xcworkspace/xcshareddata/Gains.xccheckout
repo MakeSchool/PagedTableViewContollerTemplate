@@ -12,20 +12,24 @@
 	<dict>
 		<key>4106BA33CEA1BA083C0AA7014924591096312C72</key>
 		<string>https://github.com/zleman1593/Gains.git</string>
+		<key>912C23E43159F2673F52DD199611827D1EC1FD5C</key>
+		<string>https://github.com/MakeSchool/PagedTableViewContollerTemplate.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Gains.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4106BA33CEA1BA083C0AA7014924591096312C72</key>
+		<string>../../Gains</string>
+		<key>912C23E43159F2673F52DD199611827D1EC1FD5C</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/zleman1593/Gains.git</string>
+	<string>https://github.com/MakeSchool/PagedTableViewContollerTemplate.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>4106BA33CEA1BA083C0AA7014924591096312C72</string>
+	<string>912C23E43159F2673F52DD199611827D1EC1FD5C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>4106BA33CEA1BA083C0AA7014924591096312C72</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Gains</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>912C23E43159F2673F52DD199611827D1EC1FD5C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PagedTableViewContollerTemplate</string>
 		</dict>
 	</array>
 </dict>
