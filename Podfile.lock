@@ -1,0 +1,17 @@
+PODS:
+  - BFPaperTabBarController (2.1.9):
+    - UIColor+BFPaperColors
+  - BFPaperTableViewCell (2.2.2):
+    - UIColor+BFPaperColors
+  - UIColor+BFPaperColors (1.3.1)
+
+DEPENDENCIES:
+  - BFPaperTabBarController (~> 2.1.8)
+  - BFPaperTableViewCell (~> 2.2.2)
+
+SPEC CHECKSUMS:
+  BFPaperTabBarController: bf5dd1a891975fe47f65f69426d9edd57f65a831
+  BFPaperTableViewCell: 2c1095f8205eeaede27ec84601f04e70e8e8a456
+  UIColor+BFPaperColors: 0517728d63d8cfd977a112dd5c4627c2d3c12630
+
+COCOAPODS: 0.36.1
